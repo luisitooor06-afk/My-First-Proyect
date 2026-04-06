@@ -1,0 +1,15 @@
+h1{
+    text-align: center;
+    font-size:  70px;
+    color: darkblue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+img{
+    width: 400px;
+    height: 600px;
+    border-radius: 15px;
+    display: flex;
+    justify-content:center;
+    margin: 0 auto;
+}
